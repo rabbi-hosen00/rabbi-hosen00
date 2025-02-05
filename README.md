@@ -23,7 +23,7 @@
 
 ---
 
-<p align="center" >### 🛠️ Languages and Tools:</p>
+<h2 align="center" >🛠️ Languages and Tools:</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
