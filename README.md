@@ -1,13 +1,16 @@
 
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
+
 <p align="center">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats">
 </p>
+
 <p align="center">
   <a href="https://github.com/rabbi-hosen00">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-hosen00&theme=react&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-hosen00&theme=react&hide_border=true" alt="Github Streak Stats"/>
   </a>
 </p>
+
 
 ### 🛠️ Languages and Tools:
 
