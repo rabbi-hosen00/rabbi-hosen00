@@ -2,7 +2,7 @@
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&bg_color=000000,000000&title_color=fff&text_color=fff&hide_border=true" alt="Github Stats">
 </p>
 
 <p align="center">
