@@ -1,7 +1,7 @@
 
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
 
-<h1 align="center">Hello There..👋🏽 I am Rabbi Hosen!</h1>
+<h1 align="center">Hello There..👋🏽</br> I am Rabbi Hosen!</h1>
 <h2 align="center">About me</h2>
 
 ###
