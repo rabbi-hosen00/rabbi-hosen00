@@ -1,6 +1,8 @@
 
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 <!--
 **rabbi-hosen00/rabbi-hosen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
