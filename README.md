@@ -32,7 +32,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/yourusername/your-repo/express-blue.svg" alt="Express.js" width="40" height="40"/>
+    <!-- Add custom Express.js logo with blue color -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Expressjs.png/600px-Expressjs.png" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
