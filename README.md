@@ -19,11 +19,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-hosen00&theme=react&hide_border=true" alt="Github Streak Stats"/>
 </p>
 
-
+---
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -52,6 +52,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 
 <!--
