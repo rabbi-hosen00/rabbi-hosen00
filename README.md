@@ -2,6 +2,14 @@
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
 
 <h1 align="center">Hello There..👋🏽 I am Rabbi Hosen!</h1>
+<h2 align="center">About me</h2>
+
+###
+
+<p align="left">I am a Web Developer with expertise in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with Next.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose, TypeScript, and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
+
+###
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&show_icons=true&theme=radical" alt="Rabbi's GitHub Stats"/>
 </p>
