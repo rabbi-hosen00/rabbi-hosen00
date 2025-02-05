@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rabbi-hosen00">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-hosen00&theme=react&hide_border=true" alt="Github Streak Stats"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-hosen00&theme=react&hide_border=true" alt="Github Streak Stats"/>
 </p>
+
 
 
 ### 🛠️ Languages and Tools:
