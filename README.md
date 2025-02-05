@@ -1,6 +1,7 @@
 
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
 
+<h1 align="center">Hello There..👋🏽 I am Rabbi Hosen!</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&show_icons=true&theme=radical" alt="Rabbi's GitHub Stats"/>
 </p>
