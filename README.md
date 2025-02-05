@@ -1,9 +1,8 @@
 
 ![Rabbi Hosen](https://raw.githubusercontent.com/rabbi-hosen00/rabbi-hosen00/main/Rabbi%20Hosen.jpg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&bg_color=000000,000000&title_color=fff&text_color=fff&hide_border=true" alt="Github Stats">
-</p>
+![Rabbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabbi-hosen00&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-hosen00&theme=react&hide_border=true" alt="Github Streak Stats"/>
