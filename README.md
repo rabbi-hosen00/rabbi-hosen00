@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I am a Web Developer with expertise in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with Next.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose, TypeScript, and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
+<p align="left">I am a Web Developer with expertise in JavaScript,  React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with React.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose,  and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
 
 ###
 
